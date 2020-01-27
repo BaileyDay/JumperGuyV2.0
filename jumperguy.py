@@ -57,7 +57,7 @@ class Player(pygame.sprite.Sprite):
             # self.rect.x += 100
 
         if self.rect.y < 160 and self.jumping == False:
-            self.rect.y += 5
+            self.rect.y += 6
             if self.rect.x > 170:
                 self.rect.x -= 5
         if self.longjumping == True and self.rect.y > 120:
