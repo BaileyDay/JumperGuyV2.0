@@ -71,9 +71,9 @@ def exitfun():
             # Event handling
 
             if event.type == pygame.KEYDOWN:
-                
+
                 import jumperguy
-                    
+
                 jumperguy.main()
 
             if event.type == pygame.QUIT:
@@ -99,5 +99,3 @@ def exitfun():
         ground_list.draw(screen)
         pygame.display.update()
         clock.tick(60)
-
-        
