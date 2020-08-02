@@ -1,4 +1,7 @@
 # Jumper Guy
+<p align="center">
+ <img src="/jumperguy.gif?raw=true" width="750px">
+</p>
 
 Can you escape the cursed endless tunnel? Can you overcome your greatest foe, the mighty trash can? Find out in this installment of jumper guy.
 ( Side scrolling game made in python with pygame )
